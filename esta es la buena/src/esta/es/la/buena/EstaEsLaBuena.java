@@ -17,7 +17,7 @@ public class EstaEsLaBuena {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "mi nombre es jesus jonas");
+        JOptionPane.showMessageDialog(null, "me llamo Jesus Jonas");
         System.out.println("Soy el LICENCIADO Quiterio ");
     }
     
